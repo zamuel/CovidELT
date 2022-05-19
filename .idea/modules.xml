@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../DataspellProjects/.idea/DataspellProjects.iml" filepath="$PROJECT_DIR$/../../../../../../../../DataspellProjects/.idea/DataspellProjects.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/ETL_DataCamp/.idea/ETL_DataCamp.iml" filepath="$USER_HOME$/DataspellProjects/ETL_DataCamp/.idea/ETL_DataCamp.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/HipHopMusic/.idea/HipHopMusic.iml" filepath="$USER_HOME$/DataspellProjects/HipHopMusic/.idea/HipHopMusic.iml" />
       <module fileurl="file://D:/Downloads/How-to-score-0.8134-in-Titanic-Kaggle-Challenge-master/.idea/How-to-score-0.8134-in-Titanic-Kaggle-Challenge-master.iml" filepath="D:/Downloads/How-to-score-0.8134-in-Titanic-Kaggle-Challenge-master/.idea/How-to-score-0.8134-in-Titanic-Kaggle-Challenge-master.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/ImportFlat&amp;Excel/.idea/ImportFlat&amp;Excel.iml" filepath="$USER_HOME$/DataspellProjects/ImportFlat&amp;Excel/.idea/ImportFlat&amp;Excel.iml" />
+      <module fileurl="file://D:/Proyectos/.idea/Proyectos.iml" filepath="D:/Proyectos/.idea/Proyectos.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/PruebaFuncional/.idea/PruebaFuncional.iml" filepath="$USER_HOME$/DataspellProjects/PruebaFuncional/.idea/PruebaFuncional.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/basci/.idea/basci.iml" filepath="$USER_HOME$/DataspellProjects/basci/.idea/basci.iml" />
       <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/dsProject/.idea/dsProject.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/dsProject/.idea/dsProject.iml" />
       <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/dsProject1/.idea/dsProject1.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/dsProject1/.idea/dsProject1.iml" />
